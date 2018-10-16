@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'rspec'
-gem 'sinatra'
-gem 'shotgun'
 gem 'capybara'
+gem 'rspec'
+gem 'shotgun'
+gem 'sinatra'
